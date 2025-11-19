@@ -57,9 +57,33 @@ Os resultados detalhados da análise e comparação entre os modelos podem ser e
 
 ## 🛠️ Requisitos
 
-- Python 3.x
-- Jupyter Notebook
-- Bibliotecas listadas nos notebooks (pandas, numpy, scikit-learn, tensorflow/pytorch, etc.)
+### Instalação
+
+1. **Python 3.9+** é recomendado
+
+2. **Instalar dependências:**
+
+```bash
+pip install -r requirements.txt
+```
+
+### Principais Bibliotecas
+
+- **Data Science:** pandas, numpy, scipy
+- **Machine Learning:** scikit-learn, xgboost, imbalanced-learn
+- **Deep Learning:** TensorFlow 2.15+
+- **Otimização:** Optuna
+- **Visualização:** matplotlib, seaborn, plotly
+- **Dataset:** kagglehub
+
+### Configuração GPU (Opcional)
+
+Para acelerar o treinamento das redes neurais, configure TensorFlow com suporte GPU:
+
+```bash
+# Para NVIDIA GPUs
+pip install tensorflow[and-cuda]
+```
 
 ## 👤 Autor
 
