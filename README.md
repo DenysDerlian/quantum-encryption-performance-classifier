@@ -11,7 +11,6 @@ Este projeto apresenta uma análise completa de desempenho de criptografia quân
 ├── 3.ModeloMLPParalelo-QuantumEncryption-DenysDerlian.ipynb
 ├── 4.ModeloAttentionMultiHeaded-QuantumEncryption-DenysDerlian.ipynb
 ├── 5.RF_SVM_XGBoost-QuantumEncryption-DenysDerlian.ipynb
-├── resultados.md
 ├── data/
 │   └── preprocessed/
 │       ├── df_preprocessed.csv
@@ -50,10 +49,6 @@ O dataset inclui dados sobre várias métricas relacionadas à criptografia quâ
 3. **Modelo MLP Paralelo:** Versão otimizada do MLP com processamento paralelo
 4. **Modelo Attention Multi-Headed:** Implementação de arquitetura com mecanismo de atenção
 5. **Random Forest, SVM e XGBoost:** Modelos de machine learning clássicos
-
-## 📈 Resultados
-
-Os resultados detalhados da análise e comparação entre os modelos podem ser encontrados no arquivo `resultados.md`.
 
 ## 🛠️ Requisitos
 
