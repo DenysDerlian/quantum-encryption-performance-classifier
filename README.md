@@ -9,7 +9,7 @@ Este projeto apresenta uma análise completa de desempenho de criptografia quân
 ├── 1.AnaliseExploratoria-Preprocessamento-QuantumEncryption-DenysDerlian.ipynb
 ├── 2.ModeloBaseline-MLP-QuantumEncryption-DenysDerlian.ipynb
 ├── 3.ModeloMLPParalelo-QuantumEncryption-DenysDerlian.ipynb
-├── 4.ModeloAttentionMultiHeaded-QuantumEncryption-DenysDerlian.ipynb
+├── 4.ModeloAttentionMLP-QuantumEncryption-DenysDerlian.ipynb
 ├── 5.RF_SVM_XGBoost-QuantumEncryption-DenysDerlian.ipynb
 ├── data/
 │   └── preprocessed/
